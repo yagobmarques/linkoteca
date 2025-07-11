@@ -1,17 +1,13 @@
 // Configuração do tema
 const themeConfig = {
-    title: "< linkoteca />",
-    subtitle: "dev.links",
-    // primaryColor: "#00ff88",
-    // accentColor: "#ff0080",
-    // backgroundColor: "#0a0a0a",
-    // cardBackground: "#1a1a1a",
+    title: "< yago.dev />",
+    subtitle: "links",
     primaryColor: "#5eead4",
     accentColor: "#f472b6",
     backgroundColor: "#111827" ,
     cardBackground: "#1f2937",
     author: "Yago Marques",
-    authorUrl: "https://github.com/yagomarques"
+    authorUrl: "https://github.com/yagobmarques"
 };
 
 // Traduções
@@ -35,75 +31,75 @@ let currentLang = 'pt';
 // Configuração dos links
 const linksConfig = [
     {
+        title: "Tech Profile",
+        url: "https://yagobmarques.github.io/tech-profile/",
+        icon: "fa-solid fa-user-tie",
+        description: {
+            pt: "perfil.profissional()",
+            en: "professional.profile()"
+        },
+        category: "portfolio",
+        available: true,
+        highlight: true
+    },
+    {
         title: "GitHub",
-        url: "https://github.com/usuario",
+        url: "https://github.com/yagobmarques",
         icon: "fa-brands fa-github",
         description: {
-            pt: "repositórios && open_source",
-            en: "repositories && open_source"
+            pt: "repositórios && projetos",
+            en: "repositories && projects"
         },
         category: "dev",
-        available: true,
-        highlight: true
-    },
-    {
-        title: "Terminal Blog",
-        url: "https://blog.dev",
-        icon: "fa-solid fa-terminal",
-        description: {
-            pt: "artigos.tech() && tutoriais",
-            en: "tech.articles() && tutorials"
-        },
-        category: "content",
-        available: true,
-        highlight: false
-    },
-    {
-        title: "API Docs",
-        url: "https://api.docs",
-        icon: "fa-solid fa-code",
-        description: {
-            pt: "documentacao.json",
-            en: "documentation.json"
-        },
-        category: "dev",
-        available: true,
-        highlight: true
-    },
-    {
-        title: "Docker Hub",
-        url: "https://hub.docker.com",
-        icon: "fa-brands fa-docker",
-        description: {
-            pt: "container.imagens[]",
-            en: "container.images[]"
-        },
-        category: "devops",
-        available: false,
-        highlight: false
-    },
-    {
-        title: "Stack Overflow",
-        url: "https://stackoverflow.com/users/",
-        icon: "fa-brands fa-stack-overflow",
-        description: {
-            pt: "solucoes.find(bugs)",
-            en: "solutions.find(bugs)"
-        },
-        category: "community",
         available: true,
         highlight: false
     },
     {
         title: "LinkedIn",
-        url: "https://linkedin.com/in/dev",
+        url: "https://www.linkedin.com/in/yago-marques-44955b163/",
         icon: "fa-brands fa-linkedin",
         description: {
-            pt: "rede.profissional",
-            en: "professional.network"
+            pt: "networking.profissional",
+            en: "professional.networking"
         },
         category: "social",
         available: true,
         highlight: false
-    }
+    },
+    {
+        title: "WhatsApp",
+        url: "https://wa.me/5594994930330?text=Ol%C3%A1!%20Gostaria%20de%20solicitar%20uma%20p%C3%A1gina%20ou%20projeto",
+        icon: "fa-brands fa-whatsapp",
+        description: {
+            pt: "páginas.profissionais() && design.moderno",
+            en: "professional.pages() && modern.design"
+        },
+        category: "contact",
+        available: true,
+        highlight: false
+    },
+    {
+        title: "YouTube",
+        url: "#",
+        icon: "fa-brands fa-youtube",
+        description: {
+            pt: "tutoriais && tech_talks",
+            en: "tutorials && tech_talks"
+        },
+        category: "content",
+        available: false,
+        highlight: false
+    },
+    {
+        title: "Tech Blog",
+        url: "#",
+        icon: "fa-solid fa-terminal",
+        description: {
+            pt: "artigos.tech() && insights",
+            en: "tech.articles() && insights"
+        },
+        category: "content",
+        available: false,
+        highlight: false
+    },
 ];
