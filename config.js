@@ -68,7 +68,7 @@ const linksConfig = [
     },
     {
         title: "WhatsApp",
-        url: "https://wa.me/5594994930330?text=Ol%C3%A1!%20Gostaria%20de%20solicitar%20uma%20p%C3%A1gina%20ou%20projeto",
+        url: "https://wa.me/5584994930330?text=Ol%C3%A1!%20Gostaria%20de%20solicitar%20uma%20p%C3%A1gina%20ou%20projeto",
         icon: "fa-brands fa-whatsapp",
         description: {
             pt: "páginas.profissionais() && design.moderno",
