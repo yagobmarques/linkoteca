@@ -157,8 +157,8 @@ Este projeto está licenciado sob a **Creative Commons Attribution 4.0 Internati
 ## 📞 Contato
 
 **Yago Marques**
-- GitHub: [@yagomarques](https://github.com/yagomarques)
-- LinkedIn: [Yago Marques](https://linkedin.com/in/yagomarques)
+- GitHub: [@yagobmarques](https://github.com/yagobmarques)
+- LinkedIn: [Yago Marques](https://linkedin.com/in/yago-marques-44955b163)
 
 ---
 
@@ -166,6 +166,6 @@ Este projeto está licenciado sob a **Creative Commons Attribution 4.0 Internati
 
 **⭐ Se este projeto te ajudou, considere dar uma estrela!**
 
-*Feito com 💚 por [Yago Marques](https://github.com/yagomarques)*
+*Feito com 💚 por [Yago Marques](https://github.com/yagobmarques)*
 
 </div>
